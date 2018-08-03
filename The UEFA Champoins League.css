@@ -1,0 +1,36 @@
+*{ background-image: url("https://www.footballempires.spinningworldinc.com/wp-content/uploads/2018/06/2562576_w1.jpg");
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+color: white;
+text-align: center;
+font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+
+.video{ 
+text-align: center;
+}
+
+.spain-nav,.italy-nav ,.england-nav,.germany-nav,.netherlands-nav,.portugal-nav,.scotland-nav,.romania-nav,.serbia-nav,.france-nav{
+	display: none;
+}
+
+
+span{
+	text-decoration: none;
+    padding: 5px;
+    border: 3px dotted red ;
+    margin: 10px;
+    margin-bottom: 20px;
+	color: Yellow;
+}
+
+
+.clubs{
+display: inline-block;
+display: center;
+padding: 30px;
+border: 7px solid white;
+margin: 10px;
+text-align: center;
+}
